@@ -1,0 +1,60 @@
+body {
+	padding: 100px;
+}
+
+.message-box {
+	width: 100%;
+}
+
+.message-box input {
+	width: 100%;
+    border: black 2px;
+
+    background: transparent;
+    border-bottom: 1px solid black;
+}
+
+textarea {
+	width: 100%;
+	padding-top: 10px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 2px solid black;
+}
+
+.send-button input {
+	width: 80px;
+	float: right;
+	border: none;
+	background-color: black;
+	color: white;
+}
+
+table {
+	width: 100%;
+}
+
+th {
+	text-transform: uppercase;
+	padding-right: 15px;
+
+}
+
+td {
+	padding-right: 15px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 0.5px;
+    border-style: solid;
+    border-bottom-color: #DFDFDF;
+
+}
+
+.email-title {
+	font-weight: bold;
+	padding-bottom: none;
+}
